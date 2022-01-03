@@ -10,6 +10,7 @@
 [<img alt="Bash" src="https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Git" src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="Curl" src="https://img.shields.io/badge/-Curl-gray?style=flat-square&logo=curl&logoColor=white" />](https://curl.se/)
+[<img alt="Emacs" src="https://img.shields.io/badge/emacs-purple?style=flat-square&logo=gnu-emacs&logoColor=white" />](https://curl.se/)
 [<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-green?style=flat-square&logo=neovim&logoColor=white" />](https://neovim.io/)
 [<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible&logoColor=white" />](https://www.ansible.com/)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/)
