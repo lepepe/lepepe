@@ -7,6 +7,7 @@
 [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-blue?style=flat-square&logo=arch-linux&logoColor=white" />](https://archlinux.org/)
 [<img alt="Python" src="https://img.shields.io/badge/-Python-007acc?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/en/)
+[<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-red?style=flat-square&logo=microsoftsqlserver&logoColor=white" />](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 [<img alt="Bash" src="https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=gnu-bash&logoColor=white" />](https://www.gnu.org/software/bash/)
 [<img alt="Git" src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="Curl" src="https://img.shields.io/badge/-Curl-gray?style=flat-square&logo=curl&logoColor=white" />](https://curl.se/)
